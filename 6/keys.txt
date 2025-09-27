@@ -1,0 +1,2 @@
+k5  : dec=101 hex=0x65
+k10 : dec=141 hex=0x8d

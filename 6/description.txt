@@ -1,0 +1,3 @@
+DPA on serialized AES using a two-group t-test over transition SB(p5^k5)->SB(p10^k10).
+Recovered key bytes: k5=101 (0x65), k10=141 (0x8d).
+Estimated traces needed for reliable recovery (first stable hit): ~10000 traces.
